@@ -1,2 +1,2 @@
 # klc
-Leśivka Keyboard Layouts for Windows
+Lesiwka Keyboard Layouts for Windows
